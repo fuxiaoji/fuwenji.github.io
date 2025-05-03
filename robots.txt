@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://fuwenji.github.io/sitemap.xml
+Sitemap: https://fuxiaoji.github.io/sitemap.xml
