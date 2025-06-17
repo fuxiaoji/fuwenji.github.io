@@ -1,34 +1,72 @@
 ---
 layout: about
+permalink: /about/
 title: about
-permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+description: 个人简介
+nav: true
+nav_order: 1
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: profile.jpg
+  image_circular: true
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>西南财经大学</p>
+    <p>金融专业（经管实验班）</p>
+    <p>本科在读</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
-
-announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+selected_papers: false
+social: true
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+## 基本信息
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+- 姓名：傅文基
+- 籍贯：重庆
+- 出生日期：2006.01
+- 学历：本科在读
+- 院校：西南财经大学
+- 专业：金融（经管实验班）
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+## 联系方式
+
+- 电话：13983711565
+- 邮箱：Fuwenji61616@gmail.com
+
+## 技能证书
+
+### 证书
+- 基金从业资格证
+- 绩点：3.2/4
+- 英语四级：500+
+
+### 技能
+- 熟悉金融市场与证券交易，具备股票、基金实盘交易经验
+- 理解Web3平台逻辑，具备构建与应用能力
+- 擅长财务建模，熟练使用Excel进行数据处理与预测
+- 掌握HTML+Python基础，具备独立完成小项目能力
+- 熟悉数据抓取与清洗、建模预测，熟悉LLM提示词设计，熟练使用Cursor与Claude等AI工具
+
+## 获奖经历
+
+### 2024.11 第三届全国ETF模拟投资挑战赛 前2% 二等奖
+- 三个月模拟实盘交易，最终收益率6%，总资产突破100万元
+- 熟练应用ETF策略，研究股市热点及基本面因素，形成系统性投资逻辑
+- 荣获2024年组委会评选的"优秀仿真交易团队"称号
+
+### 2024.11 西南财经大学金融科技建模大赛 二等奖
+- 独立完成数据清洗、建模预测、结果可视化等全过程
+- 所建模型在评估指标上表现优异，并撰写完整技术报告
+- 获得评委高度认可，团队排名前10%
+
+### 2025.01~03 Top Analyst股票研究报告挑战赛 三等奖
+- 模拟投行从0到1完成项目调研、估值建模及商业建议书撰写
+- 负责财务分析与估值部分，最终方案入围赛区前列
+
+## 校园活动
+
+- 院排球队足球队成员，参与"光华杯""排协杯"等比赛，获得团体二等奖
+- 红十字会注册急救员，十大杰出志愿者，参与各类志愿活动，服务超100小时
+- 西财金融投资协会研发部成员，策划组织校内外活动，参与调研项目
+- 联合创建西财本科社团"区块链启蒙"，负责技术专题讲解
+- 有驾照，多次参与无人机航拍活动

@@ -2,20 +2,19 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: fuwenji space # the website title (if blank, full name will be used instead)
+title: fuwenji space
 first_name: Fu
 middle_name: wen
 last_name: ji
 contact_note: >
-  A student who intrest in quant and game design.
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  西南财经大学金融专业在读学生，对量化投资和Web3充满热情。
+description: > 
+  西南财经大学金融专业在读学生，专注于量化投资、Web3和金融科技领域。
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
-lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
+keywords: finance, quant, web3, blockchain, student, SWUFE # 添加您的关键词
+lang: zh # 将语言改为中文
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://fuxiaoji.github.io # the base hostname & protocol for your site
